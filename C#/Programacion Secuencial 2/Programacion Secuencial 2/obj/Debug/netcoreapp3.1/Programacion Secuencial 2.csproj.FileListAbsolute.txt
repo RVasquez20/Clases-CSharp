@@ -1,0 +1,13 @@
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\bin\Debug\netcoreapp3.1\Programacion Secuencial 2.exe
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\bin\Debug\netcoreapp3.1\Programacion Secuencial 2.deps.json
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\bin\Debug\netcoreapp3.1\Programacion Secuencial 2.runtimeconfig.json
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\bin\Debug\netcoreapp3.1\Programacion Secuencial 2.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\bin\Debug\netcoreapp3.1\Programacion Secuencial 2.dll
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\bin\Debug\netcoreapp3.1\Programacion Secuencial 2.pdb
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.dll
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.pdb
+C:\Users\rodri\source\repos\Programacion Secuencial 2\Programacion Secuencial 2\obj\Debug\netcoreapp3.1\Programacion Secuencial 2.genruntimeconfig.cache

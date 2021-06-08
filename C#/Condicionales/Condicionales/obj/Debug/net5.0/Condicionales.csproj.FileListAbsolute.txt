@@ -1,0 +1,16 @@
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\Condicionales.exe
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\Condicionales.deps.json
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\Condicionales.runtimeconfig.json
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\Condicionales.runtimeconfig.dev.json
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\Condicionales.dll
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\ref\Condicionales.dll
+C:\Users\rodri\source\repos\Condicionales\Condicionales\bin\Debug\net5.0\Condicionales.pdb
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.dll
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\ref\Condicionales.dll
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.pdb
+C:\Users\rodri\source\repos\Condicionales\Condicionales\obj\Debug\net5.0\Condicionales.genruntimeconfig.cache
