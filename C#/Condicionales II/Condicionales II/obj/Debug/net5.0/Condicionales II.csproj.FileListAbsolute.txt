@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\Condicionales II.exe
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\Condicionales II.deps.json
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\Condicionales II.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\Condicionales II.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\Condicionales II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\ref\Condicionales II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\bin\Debug\net5.0\Condicionales II.pdb
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\ref\Condicionales II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.pdb
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Condicionales II\Condicionales II\obj\Debug\net5.0\Condicionales II.genruntimeconfig.cache
