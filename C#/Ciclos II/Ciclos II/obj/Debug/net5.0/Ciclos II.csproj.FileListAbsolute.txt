@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\Ciclos II.exe
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\Ciclos II.deps.json
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\Ciclos II.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\Ciclos II.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\Ciclos II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\ref\Ciclos II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\bin\Debug\net5.0\Ciclos II.pdb
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\ref\Ciclos II.dll
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.pdb
+C:\Users\rodri\Documents\GitHub\Clases Impartidas a Oscar Hernandez\C#\Ciclos II\Ciclos II\obj\Debug\net5.0\Ciclos II.genruntimeconfig.cache
