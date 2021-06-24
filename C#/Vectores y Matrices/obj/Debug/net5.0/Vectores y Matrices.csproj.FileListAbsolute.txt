@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\Vectores y Matrices.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\Vectores y Matrices.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\Vectores y Matrices.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\Vectores y Matrices.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\Vectores y Matrices.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\ref\Vectores y Matrices.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\bin\Debug\net5.0\Vectores y Matrices.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\ref\Vectores y Matrices.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices\obj\Debug\net5.0\Vectores y Matrices.genruntimeconfig.cache

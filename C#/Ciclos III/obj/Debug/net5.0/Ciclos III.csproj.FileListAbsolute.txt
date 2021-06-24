@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\Ciclos III.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\Ciclos III.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\Ciclos III.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\Ciclos III.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\Ciclos III.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\ref\Ciclos III.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\bin\Debug\net5.0\Ciclos III.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\ref\Ciclos III.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Ciclos III\obj\Debug\net5.0\Ciclos III.genruntimeconfig.cache
