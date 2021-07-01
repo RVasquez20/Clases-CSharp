@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\Vectores y Matrices II.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\Vectores y Matrices II.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\Vectores y Matrices II.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\Vectores y Matrices II.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\Vectores y Matrices II.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\ref\Vectores y Matrices II.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\bin\Debug\net5.0\Vectores y Matrices II.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\ref\Vectores y Matrices II.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices II\obj\Debug\net5.0\Vectores y Matrices II.genruntimeconfig.cache
