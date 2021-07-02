@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\VectoresyMatricesIII.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\VectoresyMatricesIII.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\VectoresyMatricesIII.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\VectoresyMatricesIII.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\VectoresyMatricesIII.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\ref\VectoresyMatricesIII.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\bin\Debug\net5.0\VectoresyMatricesIII.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\ref\VectoresyMatricesIII.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\VectoresyMatricesIII\obj\Debug\net5.0\VectoresyMatricesIII.genruntimeconfig.cache
