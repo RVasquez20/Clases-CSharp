@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\Vectores y Matrices IV.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\Vectores y Matrices IV.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\Vectores y Matrices IV.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\Vectores y Matrices IV.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\Vectores y Matrices IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\ref\Vectores y Matrices IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\bin\Debug\net5.0\Vectores y Matrices IV.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\ref\Vectores y Matrices IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices IV\obj\Debug\net5.0\Vectores y Matrices IV.genruntimeconfig.cache
