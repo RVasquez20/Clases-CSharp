@@ -1,0 +1,11 @@
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\bin\Debug\netcoreapp2.1\Tarea_for.deps.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\bin\Debug\netcoreapp2.1\Tarea_for.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\bin\Debug\netcoreapp2.1\Tarea_for.runtimeconfig.dev.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\bin\Debug\netcoreapp2.1\Tarea_for.dll
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\bin\Debug\netcoreapp2.1\Tarea_for.pdb
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\obj\Debug\netcoreapp2.1\Tarea_for.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\obj\Debug\netcoreapp2.1\Tarea_for.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\obj\Debug\netcoreapp2.1\Tarea_for.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\obj\Debug\netcoreapp2.1\Tarea_for.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\obj\Debug\netcoreapp2.1\Tarea_for.dll
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_for\Tarea_for\obj\Debug\netcoreapp2.1\Tarea_for.pdb
