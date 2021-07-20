@@ -1,0 +1,11 @@
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\bin\Debug\netcoreapp2.1\Tarea_15ejercicios.deps.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\bin\Debug\netcoreapp2.1\Tarea_15ejercicios.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\bin\Debug\netcoreapp2.1\Tarea_15ejercicios.runtimeconfig.dev.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\bin\Debug\netcoreapp2.1\Tarea_15ejercicios.dll
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\bin\Debug\netcoreapp2.1\Tarea_15ejercicios.pdb
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\obj\Debug\netcoreapp2.1\Tarea_15ejercicios.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\obj\Debug\netcoreapp2.1\Tarea_15ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\obj\Debug\netcoreapp2.1\Tarea_15ejercicios.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\obj\Debug\netcoreapp2.1\Tarea_15ejercicios.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\obj\Debug\netcoreapp2.1\Tarea_15ejercicios.dll
+C:\Users\oscar\OneDrive\Documentos\Tutorías\Tarea_15ejercicios\Tarea_15ejercicios\obj\Debug\netcoreapp2.1\Tarea_15ejercicios.pdb
