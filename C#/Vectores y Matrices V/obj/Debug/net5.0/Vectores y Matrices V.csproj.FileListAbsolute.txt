@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\Vectores y Matrices V.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\Vectores y Matrices V.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\Vectores y Matrices V.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\Vectores y Matrices V.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\Vectores y Matrices V.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\ref\Vectores y Matrices V.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\bin\Debug\net5.0\Vectores y Matrices V.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\ref\Vectores y Matrices V.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Vectores y Matrices V\obj\Debug\net5.0\Vectores y Matrices V.genruntimeconfig.cache
