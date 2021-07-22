@@ -1,0 +1,11 @@
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\bin\Debug\netcoreapp2.1\tarea_objetos.deps.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\bin\Debug\netcoreapp2.1\tarea_objetos.runtimeconfig.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\bin\Debug\netcoreapp2.1\tarea_objetos.runtimeconfig.dev.json
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\bin\Debug\netcoreapp2.1\tarea_objetos.dll
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\bin\Debug\netcoreapp2.1\tarea_objetos.pdb
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\obj\Debug\netcoreapp2.1\tarea_objetos.csprojAssemblyReference.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\obj\Debug\netcoreapp2.1\tarea_objetos.csproj.CoreCompileInputs.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\obj\Debug\netcoreapp2.1\tarea_objetos.AssemblyInfoInputs.cache
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\obj\Debug\netcoreapp2.1\tarea_objetos.AssemblyInfo.cs
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\obj\Debug\netcoreapp2.1\tarea_objetos.dll
+C:\Users\oscar\OneDrive\Documentos\Tutorías\tarea_objetos\tarea_objetos\obj\Debug\netcoreapp2.1\tarea_objetos.pdb
