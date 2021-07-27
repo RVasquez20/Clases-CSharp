@@ -1,0 +1,10 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\bin\Debug\FormsI.exe.config
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\bin\Debug\FormsI.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\bin\Debug\FormsI.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.Form1.resources
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.Properties.Resources.resources
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\FormsI\obj\Debug\FormsI.pdb

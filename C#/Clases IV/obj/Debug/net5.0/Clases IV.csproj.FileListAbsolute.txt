@@ -1,0 +1,16 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\Clases IV.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\Clases IV.deps.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\Clases IV.runtimeconfig.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\Clases IV.runtimeconfig.dev.json
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\Clases IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\ref\Clases IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\bin\Debug\net5.0\Clases IV.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.AssemblyInfo.cs
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\ref\Clases IV.dll
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Clases IV\obj\Debug\net5.0\Clases IV.genruntimeconfig.cache
