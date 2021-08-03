@@ -1,0 +1,11 @@
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\bin\Debug\Visual 2.exe.config
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\bin\Debug\Visual 2.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\bin\Debug\Visual 2.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual 2.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual_2.Form1.resources
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual_2.Properties.Resources.resources
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual 2.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual 2.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual 2.exe
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual 2.pdb
+C:\Users\rodri\Documents\GitHub\Clases-CSharp\C#\Visual 2\obj\Debug\Visual_2.Registro.resources
