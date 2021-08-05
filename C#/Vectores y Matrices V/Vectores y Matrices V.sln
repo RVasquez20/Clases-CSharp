@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vectores y Matrices V", "Vectores y Matrices V.csproj", "{90829D33-1300-4E1A-9525-E49F9DDAFEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90829D33-1300-4E1A-9525-E49F9DDAFEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90829D33-1300-4E1A-9525-E49F9DDAFEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90829D33-1300-4E1A-9525-E49F9DDAFEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90829D33-1300-4E1A-9525-E49F9DDAFEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4633807-574E-4C1F-98D3-EEA098F0E79B}
+	EndGlobalSection
+EndGlobal
